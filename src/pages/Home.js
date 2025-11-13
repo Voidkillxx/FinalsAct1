@@ -8,7 +8,7 @@ function Home({ personal }) {
       </h1>
       <p className="lead text-secondary mb-4">{personal.headline}</p>
       <p className="mb-5">
-        I am an IT student focusing on building functional applications using Java and managing data with MySQL. Let's build something great.
+        I am an CS student focusing on building functional applications using Java and managing data with MySQL. Let's build something great.
       </p>
       <Link className="btn btn-success btn-lg me-3" to="/projects">
         My Work
